@@ -1,0 +1,17 @@
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\brands.json
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\delivery.json
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\products.json
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Data\SeedData\types.json
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Infrastructure.deps.json
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Infrastructure.dll
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Infrastructure.pdb
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Core.dll
+C:\Users\Dasari\Downloads\prod\Infrastructure\bin\Release\netstandard2.1\Core.pdb
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.dll
+C:\Users\Dasari\Downloads\prod\Infrastructure\obj\Release\netstandard2.1\Infrastructure.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <None Include="Data\SeedData\**" CopyToOutputDirectory="PreserveNewest"/>
+    <ProjectReference Include="..\Core\Core.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Mysql" Version="3.1.1"/>
+    <PackageReference Include="StackExchange.Mysql" Version="2.1.30"/>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.5.0"/>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.5.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.1"/>
+    <PackageReference Include="Stripe.net" Version="36.6.0"/>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.Mysql" Version="3.1.1"/>
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+</Project>

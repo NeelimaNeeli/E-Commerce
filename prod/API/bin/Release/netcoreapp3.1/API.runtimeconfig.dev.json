@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dasari\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dasari\\.nuget\\packages"
+    ]
+  }
+}

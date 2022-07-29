@@ -1,0 +1,10 @@
+C:\Users\Dasari\Downloads\prod\Core\bin\Release\netstandard2.1\Core.deps.json
+C:\Users\Dasari\Downloads\prod\Core\bin\Release\netstandard2.1\Core.dll
+C:\Users\Dasari\Downloads\prod\Core\bin\Release\netstandard2.1\Core.pdb
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.dll
+C:\Users\Dasari\Downloads\prod\Core\obj\Release\netstandard2.1\Core.pdb
